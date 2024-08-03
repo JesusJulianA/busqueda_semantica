@@ -1,4 +1,4 @@
-Aquí tienes la documentación sin el código:
+Jesus Julian Abreu 2021-0047
 
 ---
 
@@ -38,10 +38,8 @@ Se define una función para realizar búsquedas semánticas. La consulta se comb
 
 Se reduce la dimensionalidad de los embeddings a dos dimensiones utilizando PCA (Análisis de Componentes Principales) para facilitar la visualización. Los embeddings se grafican en un diagrama de dispersión donde cada punto representa un documento. La coloración indica la similitud con la consulta.
 
-### 3.5. Evaluar la Búsqueda
-
-Se define una función para evaluar la efectividad del sistema de búsqueda. La evaluación se basa en la precisión y el recall de los documentos recuperados en comparación con los documentos relevantes esperados. Se calculan estos valores para evaluar el rendimiento del sistema y su capacidad para recuperar documentos relevantes.
 
 ---
 
-Esta documentación proporciona una visión general del funcionamiento del sistema de búsqueda semántica, así como instrucciones para su instalación, uso y evaluación.
+https://colab.research.google.com/drive/1APwtTfHf5X-6ya2jOWSwI5fY5NbZOE8_#scrollTo=rfej_Fl64K00
+
