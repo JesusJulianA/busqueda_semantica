@@ -53,6 +53,12 @@ Busqueda semantica
 [https://colab.research.google.com/drive/1APwtTfHf5X-6ya2jOWSwI5fY5NbZOE8_#scrollTo=cA2XwPGt3B1g](https://colab.research.google.com/drive/1APwtTfHf5X-6ya2jOWSwI5fY5NbZOE8_?usp=sharing)
 ---
 
+# Video
+https://miucateciedu.sharepoint.com/sites/ejemplo483/_layouts/15/stream.aspx?id=%2Fsites%2Fejemplo483%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20%5FGeneral%5F%2D20240803%5F001521%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7ce8329b%2De4d0%2D4ba3%2D88ea%2D7362170ce3e7
+
+---
+
+
 otros colab
 
 https://colab.research.google.com/drive/1GgOBCk1fqNqzeCHBlox4AII1Mu8hTq5J?usp=sharing 
