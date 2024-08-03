@@ -4,6 +4,14 @@ Jesus Julian Abreu 2021-0047
 
 # Documentación del Programa de Búsqueda Semántica
 
+## Importante:
+El projecto se debe de correr en Google Colab, posteriormente cambiar a uso de la GPU:
+
+Pasos para cambiar a la GPU en colab:
+1. Click en entorno de ejecución
+2. Cambiar tipo de entorna de ejecución
+3. Elegir T4 GPU
+
 ## 1. Introducción al Proyecto
 
 Este proyecto desarrolla un sistema de búsqueda semántica para encontrar documentos relevantes en un archivo JSON que contiene información académica, incluyendo autores, títulos, categorías y resúmenes de artículos científicos. Utiliza embeddings generados por modelos de lenguaje preentrenados para convertir textos en vectores. Luego, emplea estos vectores para realizar búsquedas semánticas precisas, permitiendo que las consultas se comparen con los documentos en el dataset.
@@ -40,6 +48,9 @@ Se reduce la dimensionalidad de los embeddings a dos dimensiones utilizando PCA 
 
 
 ---
-
-https://colab.research.google.com/drive/1APwtTfHf5X-6ya2jOWSwI5fY5NbZOE8_#scrollTo=rfej_Fl64K00
+Busqueda semantica
+[https://colab.research.google.com/drive/1APwtTfHf5X-6ya2jOWSwI5fY5NbZOE8_#scrollTo=rfej_Fl64K00](https://colab.research.google.com/drive/1APwtTfHf5X-6ya2jOWSwI5fY5NbZOE8_#scrollTo=cA2XwPGt3B1g)
+---
+https://colab.research.google.com/drive/1GgOBCk1fqNqzeCHBlox4AII1Mu8hTq5J?usp=sharing 
+https://colab.research.google.com/drive/1hsGUqNYwhlZgoabIktShvz_M5Bt6K4YV#scrollTo=vc1QFsjwn5e1 
 
