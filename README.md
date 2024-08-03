@@ -49,8 +49,22 @@ Se reduce la dimensionalidad de los embeddings a dos dimensiones utilizando PCA 
 
 ---
 Busqueda semantica
+
 https://colab.research.google.com/drive/1APwtTfHf5X-6ya2jOWSwI5fY5NbZOE8_#scrollTo=cA2XwPGt3B1g
 ---
+
+otros colab
+
 https://colab.research.google.com/drive/1GgOBCk1fqNqzeCHBlox4AII1Mu8hTq5J?usp=sharing 
 https://colab.research.google.com/drive/1hsGUqNYwhlZgoabIktShvz_M5Bt6K4YV#scrollTo=vc1QFsjwn5e1 
+
+## Evidencias:
+![Imagen de WhatsApp 2024-07-19 a las 20 57 04_ab06fdae](https://github.com/user-attachments/assets/575d40e6-53a5-4b73-9368-fccad891f4c7)
+![Imagen de WhatsApp 2024-07-06 a las 10 29 32_df0efc66](https://github.com/user-attachments/assets/13bfe3b7-a139-410c-877b-4b70ef23c945)
+![Imagen de WhatsApp 2024-07-05 a las 10 05 29_164cc5dc](https://github.com/user-attachments/assets/3afb100e-ddbe-458e-a4bd-1c52b3eb114a)
+![Imagen de WhatsApp 2024-06-01 a las 10 19 51_2276b936](https://github.com/user-attachments/assets/1994d7de-801b-429e-9c7a-bab1a980664e)
+
+
+
+
 
